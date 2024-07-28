@@ -56,6 +56,15 @@ Testing involved running the algorithm with identical parameters to ensure stabi
 2. **Test the Algorithms**: Modify the starting points, step sizes, and other parameters to see how the algorithms perform on different error surfaces.
 3. **Visualization**: Use the provided plotting functions to visualize the optimization process and the resulting paths.
 
+## References
+- Brownlee, J. (2021b, October 11). Stochastic Hill Climbing in Python from Scratch. MachineLearningMastery.com. https://machinelearningmastery.com/stochastic-hill-climbing-in-python-from-scratch/
+- De Haan, H. (2021, December 23). How to implement the hill climbing algorithm in Python. Medium. https://towardsdatascience.com/how-to-implement-the-hill-climbing-algorithm-in-python-  1c65c29469de
+- Brownlee, J. (2021, October 11). Simple genetic algorithm from scratch in Python. MachineLearningMastery.com. https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/		
+- Computerphile. (2014). Hill Climbing Algorithm & Artificial Intelligence [Video]. YouTube.
+- Flora, T. & Koloskov, N. (2021). TSP Genetic Algorithm Manual. Minerva University.
+- GfG. (2024, February 21). Genetic algorithms. GeeksforGeeks. https://www.geeksforgeeks.org/genetic-algorithms/
+- Uzila, A. (2022, November 26). Complete Step-by-step Genetic Algorithm from Scratch for Global Optimization. Medium. https://towardsdatascience.com/complete-step-by-step-genetic-algorithm-from-scratch-for-global-optimization-6fee5c55dd3b
+- 
 ## Contact
 
 For any questions or further information, please contact pedro@uni.minerva.edu.
