@@ -13,21 +13,15 @@ This project involves exploring optimization algorithms, particularly hill-climb
 
 ## Files
 
-- `FA ASSIGNMENT.ipynb`: The Jupyter Notebook containing the hill-climbing and genetic algorithm implementations, along with testing and visualizations.
+- `Optimization Algorithms.ipynb`: The Jupyter Notebook containing the hill-climbing and genetic algorithm implementations, along with testing and visualizations.
 - `README.md`: This README file.
 
 ## Instructions
 
-1. **Run the Jupyter Notebook**: Open `FA ASSIGNMENT.ipynb` in Jupyter Notebook to explore the implementations.
+1. **Run the Jupyter Notebook**: Open `Optimization Algorithms.ipynb` in Jupyter Notebook to explore the implementations.
 2. **Test the Algorithms**: Modify the starting points, step sizes, and other parameters to see how the algorithms perform on different error surfaces.
 3. **Visualization**: Use the provided plotting functions to visualize the optimization process and the resulting paths.
 
 ## Contact
 
-For any questions or further information, please contact [your email].
-
----
-
-**Website**: Not provided
-
-**Topics**: Optimization, Algorithms, Hill Climbing, Genetic Algorithm, Python
+For any questions or further information, please contact pedro@uni.minerva.edu.
